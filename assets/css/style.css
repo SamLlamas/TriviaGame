@@ -1,0 +1,25 @@
+html{
+    min-height: 100%;
+}
+
+
+body{
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/sakura.png");
+    height: 100%;
+}
+
+#container{
+    position: absolute;
+    height: 50%;
+    width: 75%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/old_moon.png");
+}
+
+#triviaHeader{
+    text-align: center;
+    width: 100%;
+    margin: 20px auto;
+}
