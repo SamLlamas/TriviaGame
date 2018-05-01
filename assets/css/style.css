@@ -35,15 +35,17 @@ body{
     padding: 0;
     display: inline-block;
 }
-
+#question{
+    margin-bottom: 0px;
+}
 li{
     width: auto;
-    
-    padding: 0 15px;
+
 }
 
 p{
     margin: 20px auto;
+    padding: 0 10px;
 }
 
 p:last-child{
